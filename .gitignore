@@ -1,0 +1,3 @@
+# Compiled programs - rebuild from the .cpp files
+*.exe
+*.o
