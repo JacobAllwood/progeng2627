@@ -1,0 +1,12 @@
+funcs:
+read matrix from file
+
+    line to vector
+
+
+
+matrix column
+
+vector product
+
+matrix product
